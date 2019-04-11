@@ -12,6 +12,8 @@ public class Test222 {
 	public static void main(String[] args) {
 		
 		System.out.println("구름이와 구름이");
+		System.out.println("그리고 가을이");
+		System.out.println("그리고 사라진 영재와 이슬이");
 	}
 	
 }
