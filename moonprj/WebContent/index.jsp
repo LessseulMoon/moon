@@ -14,6 +14,11 @@
 		그리고 문이슬 입니다~~
 	</h1>
 	<a href="#">이게 뭐죠??</a>
+
 	<a href="http://www.naver.com">네이버로 이동</a>
+
+	<hr>
+	
+	<a>구름이랑 가을이는 친친</a>
 </body>
 </html>
